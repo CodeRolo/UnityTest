@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HorrorEnvironment_AbandonedManor/MANOR_test_CLEAN_batched.unity
+  isLoaded: 1
+  isActive: 1
